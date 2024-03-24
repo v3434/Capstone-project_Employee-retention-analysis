@@ -27,7 +27,7 @@ ML Model : Desicion Tree , Random Forest , Logistic Regression
 Evaluation Metrics : AUC , precision , accuracy , f1-score and recall .
 
 ## Conclusion:
-
+For detailed insights explanation and results , refer the jupyter notebook which includes key insights , explanations , data visualization graphs and results summary .
 It was evident that employees at company overworked . To enhance employee retention, 
 
 stakeholders could consider the following recommendations:
