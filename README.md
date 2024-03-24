@@ -5,9 +5,10 @@ The primary goal of this project is to improve employee retention rates at Salif
 ## Project Overview:
 
 Main Goal of The Project:
-*Understand factors influencing employee attrition.
-*Build a predictive model for employee retention.
-*Provide actionable recommendations to enhance retention.
+
+* Understand factors influencing employee attrition.
+* Build a predictive model for employee retention.
+* Provide actionable recommendations to enhance retention.
 First Exploratory data analytics was performed on the dataset to understand the variables and clean the dataset , followed by Data visualization where important insights were found and was used for selecting ML model.
 for predictive analysis. Since target feature belongs to categorical datatype, Logistic regression and Tree-based models were chosen for modelling.
 
