@@ -32,10 +32,10 @@ For detailed insights explanation and results , refer the jupyter notebook which
 It was evident that employees at company overworked . To enhance employee retention, 
 
 stakeholders could consider the following recommendations:
-*Limit the number of projects per employee.
-*Promote employees with four or more years of tenure or investigate their dissatisfaction.
-*Offer incentives for longer hours or eliminate mandatory overtime.
-*Ensure clarity on overtime pay policies and workload expectations.
+* Limit the number of projects per employee.
+* Promote employees with four or more years of tenure or investigate their dissatisfaction.
+* Offer incentives for longer hours or eliminate mandatory overtime.
+* Ensure clarity on overtime pay policies and workload expectations.
 *Conduct discussions to improve company culture.
 *Implement fair evaluation criteria irrespective of monthly work hours.
 
